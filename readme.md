@@ -4,7 +4,7 @@
 
 ## 地址
 
-(https://3dschool.hurl.live/App_cesium/)[https://3dschool.hurl.live/App_cesium/]
+[https://3dschool.hurl.live/App_cesium/](https://3dschool.hurl.live/App_cesium/)
 
 ## 状态
 
